@@ -1,58 +1,46 @@
-# 👋 ¡Hola! Soy Mariluz Gayosso Vargas
+👋 Hello! I’m Mariluz Gayosso Vargas
+🎓 Computer Systems Engineering student at Universidad Politécnica de Tulancingo (9th semester, GPA 9.89/10).
+💻 Passionate about software engineering, machine learning, cloud computing, and web & mobile development.
+🌟 My goal is to contribute to innovative projects that drive technology and social impact, applying data-driven solutions, artificial intelligence, and best engineering practices.
 
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la **Universidad Politécnica de Tulancingo** (9° cuatrimestre, promedio 9.89/10).  
-💻 Apasionada por el **software engineering**, **machine learning**, **cloud computing** y el **desarrollo web y móvil**.  
-🌟 Mi objetivo es contribuir a proyectos innovadores que impulsen la tecnología y el impacto social, aplicando soluciones basadas en datos, inteligencia artificial y buenas prácticas de ingeniería.
+🚀 Technologies and Tools
+Languages	Frameworks / Libraries	Cloud / Infrastructure	Databases	Others
+Python, Java, C++, JavaScript, C#, ASP.NET	React, Tailwind, REST APIs	AWS, Google Cloud (fundamentals)	MySQL, MongoDB, SQL	Git / GitHub, Linux, Agile basics
 
----
+💼 Key Projects
+🧠 Early Detection of Cerebrovascular Accidents (Stroke)
+Software development using machine learning algorithms for medical image analysis and stroke classification.
+Technologies: Python, Scikit-learn, OpenCV
 
-## 🚀 Tecnologías y herramientas
+🌐 Web Portfolio
+Design and development of a responsive website using React and Tailwind CSS, implementing UI/UX best practices.
+Technologies: React.js, Tailwind CSS, GitHub Pages
 
-| Lenguajes | Frameworks / Librerías | Cloud / Infra | Bases de datos | Otros |
-|------------|------------------------|---------------|----------------|-------|
-| Python, Java, C++, JavaScript, C#, ASP.NET | React, Tailwind, REST APIs | AWS, Google Cloud (fundamentos) | MySQL, MongoDB, SQL | Git / GitHub, Linux, Agile basics |
+🤖 VR Simulator for Phobias
+3D simulation project for phobia treatment through virtual reality.
+Technologies: Blender, Unity (basic), VR tools
 
----
+📱 Android Applications
+Basic mobile apps for task and data management.
+Technologies: Android Studio, Java
 
-## 💼 Proyectos destacados
+🎯 Professional Goals
+✅ Apply my knowledge in software development, cloud solutions, and machine learning in global collaborative environments.
+✅ Participate in projects with impact on health, education, and social technology.
+✅ Grow professionally in leading companies, contributing innovation and quality solutions.
 
-### 🧠 **Detección temprana de accidentes cerebrovasculares (ACV)**  
-Desarrollo de software con algoritmos de *machine learning* para el análisis de imágenes médicas y la clasificación de ACV.  
-*Tecnologías:* Python, Scikit-learn, OpenCV  
+📫 Contact
+Email: gayossomariluz@gmail.com
 
-### 🌐 **Portafolio web**  
-Diseño y desarrollo de un sitio responsivo con **React** y **Tailwind CSS**, implementando buenas prácticas de UI/UX.  
-*Tecnologías:* React.js, Tailwind CSS, GitHub Pages  
+LinkedIn: linkedin.com/in/mariluz-gayosso-vargas
 
-### 🤖 **Simulador VR para fobias**  
-Proyecto de simulación en 3D para tratamiento de fobias mediante realidad virtual.  
-*Tecnologías:* Blender, Unity (básico), herramientas VR  
+🌟 Check Out My Projects
+📌 Here are some of my public repositories:
 
-### 📱 **Aplicaciones Android**  
-Apps móviles básicas para gestión de tareas y datos.  
-*Tecnologías:* Android Studio, Java  
+ACV Detection ML
 
----
+VR Phobia Simulator
 
-## 🎯 Objetivos profesionales
+Android Task Manager App
 
-✅ Aplicar mis conocimientos en **desarrollo de software**, **cloud solutions** y **machine learning** en entornos de colaboración global.  
-✅ Participar en proyectos con impacto en salud, educación y tecnología social.  
-✅ Crecer profesionalmente en empresas líderes, contribuyendo con innovación y soluciones de calidad.  
-
----
-
-## 📫 Contacto
-
-- **Email:** [gayossomariluz@gmail.com](mailto:gayossomariluz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mariluz-gayosso-vargas](https://www.linkedin.com/in/mariluz-gayosso-vargas)  
-
----
-
-## 🌟 Visita mis proyectos
-
-📌 Encontrarás aquí mis repositorios públicos:  
-- ACV Detection ML  
-- VR Phobia Simulator  
-- Android Task Manager App  
-- Portfolio Website  
+Portfolio Website
