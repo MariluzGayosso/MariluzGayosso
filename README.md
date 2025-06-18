@@ -51,7 +51,7 @@ Basic mobile apps for task and data management.
 
 ## 🌟 Check Out My Projects
 
-📌 Coming soon, you’ll find my public repositories here:  
+📌 You can find my public repositories here:  
 - ACV Detection ML  
 - VR Phobia Simulator  
 - Android Task Manager App  
