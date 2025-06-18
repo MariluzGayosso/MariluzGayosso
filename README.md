@@ -45,7 +45,7 @@ Basic mobile apps for task and data management.
 ## 📫 Contact
 
 - **Email:** [gayossomariluz@gmail.com](mailto:gayossomariluz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mariluz-gayosso-vargas](https://www.linkedin.com/in/mariluz-gayosso-vargas)  
+- **LinkedIn:** [linkedin.com/in/mariluz-gayosso-vargas](https://www.linkedin.com/in/mariluz-gayosso)  
 
 ---
 
