@@ -38,7 +38,7 @@ Basic mobile apps for task and data management.
 
 ✅ Apply my knowledge in **software development**, **cloud solutions**, and **machine learning** in global collaborative environments.  
 ✅ Participate in projects with impact on health, education, and social technology.  
-✅ Grow professionally in leading companies like **Amazon, Google, IBM, Microsoft**, contributing innovation and quality solutions.  
+✅ Grow professionally in leading companies, contributing innovation and quality solutions.  
 
 ---
 
